@@ -8,16 +8,16 @@
     "url": "http://code.woong.org/"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "contributors": [],
   "homepage": "http://code.woong.org/ontime",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fortnite-LobbyBot/ontime.git"
+    "url": "https://github.com/FNLB-Project/ontime.git"
   },
   "bugs": {
-    "url": "https://github.com/Fortnite-LobbyBot/ontime/issues",
+    "url": "https://github.com/FNLB-Project/ontime/issues",
     "email": "oss@fnlb.net"
   },
   "license": "MIT",
